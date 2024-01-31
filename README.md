@@ -15,25 +15,17 @@ Screenshots:-
 
 1.Landing Page:-
 
-
 <img width="960" alt="image" src="https://github.com/Shr1v1dya/ALARM-CLOCK/assets/94571082/2012342e-c0af-4d7a-8c5e-64a61291130c">
-
 
 2.Option Selection(Hours,Minutes,Period)for Setting Alarm:-
 
-
 <img width="960" alt="Screenshot 2024-01-31 134115" src="https://github.com/Shr1v1dya/ALARM-CLOCK/assets/94571082/b8571d4a-4c72-45fe-a83c-57c5ac57b9b9">
-
 <img width="960" alt="Screenshot 2024-01-31 134102" src="https://github.com/Shr1v1dya/ALARM-CLOCK/assets/94571082/bdc2ed3e-ed96-42b7-81cb-d4268e5e5db4">
-
 <img width="960" alt="Screenshot 2024-01-31 134135" src="https://github.com/Shr1v1dya/ALARM-CLOCK/assets/94571082/73762d5f-8b36-44cc-8c2f-c2860a07be6b">
-
 
 3.ALarm list and Stop button pop-up:-
 
-
 <img width="960" alt="Screenshot 2024-01-31 134306" src="https://github.com/Shr1v1dya/ALARM-CLOCK/assets/94571082/df7a277e-efb8-4355-bf96-8cb7807be99e">
-
 
 Usage:-
 
